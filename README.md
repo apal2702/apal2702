@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apal2702
+- 👋 Hi, I’m Ashish Pal.
 - 👀 I’m interested in building AI ML solutions.  
 - 🌱 I’m currently exploring LLM and MLOPS. 
 - 💞️ I’m looking to collaborate on building AI solutions. 
